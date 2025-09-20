@@ -70,4 +70,4 @@ You can find a standalone C++ file for running on online IDE ("./docs/cppSourceC
 
 ## References
 
-Problem from [Advent of Code]("https://adventofcode.com/2020/day/5" "Go to Advent of Code")
+Problem from [Advent of Code](https://adventofcode.com/2020/day/5 "Go to Advent of Code")
